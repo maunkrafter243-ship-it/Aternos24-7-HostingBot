@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Terra_Explorata.aternos.me:19643",
+    "ip": "Terra_Explorata.aternos.me",
     "port": 19643,
     "version": "1.21.11",
     "try-creative": false
