@@ -59,7 +59,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {
