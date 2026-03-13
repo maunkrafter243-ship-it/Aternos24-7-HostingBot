@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Terra_Explorata.aternos.me:19643",
-    "port": 62213,
-    "version": "",
+    "port": 19643,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
