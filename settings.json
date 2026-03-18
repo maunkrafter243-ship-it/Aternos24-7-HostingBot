@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Terra_Explorata.aternos.me",
-    "port": 19643,
+    "ip": "IroncladIsles.aternos.me",
+    "port": 21755,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -82,7 +82,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": false
     }
   },
